@@ -4,6 +4,6 @@ Common Lisp tools to inline or extract CSS into/from HTML.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/Shinmera/softdrink.git |
-| commit  | 02412b7                                       |
+| commit  | c1b14df                                       |
 | systems | softdrink                                     |
 |---------+-----------------------------------------------|
